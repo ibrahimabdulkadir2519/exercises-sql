@@ -127,3 +127,6 @@ ON students(city);
 
  CREATE INDEX idx_city
 ON students(city);
+
+-- 5
+Index ka hor wuxuu baarayay dhammaan rows ka all . Index ka dib wuxuu isticmaalay idx_city wuxuuna baaray rows yar. Taas ayaa query-ga ka dhigtay mid dhaqso badan.
